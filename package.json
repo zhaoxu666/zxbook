@@ -1,0 +1,22 @@
+{
+  "name": "zxbook",
+  "version": "1.0.0",
+  "description": "自动化构建 demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoxu666/zxbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaoxu666/zxbook/issues"
+  },
+  "homepage": "https://github.com/zhaoxu666/zxbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
